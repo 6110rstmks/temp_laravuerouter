@@ -1,16 +1,12 @@
 ***laravel vue router setup procedure template****
 
-(first picture): initial state
-
-(second picture): after 1 is done
-
-(third picture): after 2 is done
 
 1.
 npm i vue@next
 
 2.
 npm i @vitejs/plugin-vue
+npm install vue-router@4
 
 3.
 Add 
